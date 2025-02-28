@@ -1,5 +1,4 @@
-# Neural Network Hyperparameter Optimization
-
+# TweakNetX – Fine-tuning neural networks for maximum efficiency.
 ## Project Overview
 This project optimizes neural network hyperparameters (hidden units & regularization λ) for accuracy, generalization, and efficiency. Using MNIST & CelebA datasets, we compare NN, DNN, and CNN models. Results show **12-20 hidden units with λ = 15-25** balance performance. CNNs excel in image classification. Includes training, evaluation, and visualization code.
 
